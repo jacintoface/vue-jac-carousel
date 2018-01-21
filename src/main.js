@@ -3,6 +3,10 @@
 import Vue from 'vue'
 import App from './App'
 
+import Carousel from '../dist/vue-jac-carousel'
+
+Vue.use(Carousel)
+
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
