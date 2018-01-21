@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "carousel plugin for vue",
   "author": "jacintoface <jacintoface@gemail>",
-  "private": true,
+  "main": "dist/vue-jac-carousel.js",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
